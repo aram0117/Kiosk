@@ -50,12 +50,12 @@ public class Main {
                     System.out.println("잘못된 번호입니다 다시 메뉴번호를 입력해주세요");
                     System.out.println("--------------------------------------");
                     continue;
+
                 }
             }
             // 반복문 종료
-            System.out.println("키오스크를 종료됩니다");;
+            System.out.println("키오스크를 종료됩니다");
             break;
         }
     }
 }
-
