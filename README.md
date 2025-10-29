@@ -11,13 +11,27 @@
 6. Kiosk 클래스를 만들어 메뉴객체와 스캐너를 생성하여 입력기능을 만듦
 7. Kiosk의 start, menuorder, exit 함수를 만들어 키오스크를 시작할때 입력하는 카테고리 이름과 주문할 메뉴를 입력하는 주문단계와 종료여부를 묻는 종료단계를 구조적으로 나눔
 8. Main 클래스에서 Kiosk의 객체생성 및 start함수로 키오스크 실행
-***
+* * *
 ## 키오스크 사용법
- 키오스크를 실행하면 start함수가 실행되며 사용자는 원하는 카테고리를 보고 입력할수있거나 종료할수 있습니다.   카테고리를 입력하면 뒤로가기가 실행되거나 해당 카테고리의 order함수가 실행되어 메뉴아이템이 출력되며 메뉴아이템을 보고 메뉴를 주문할수있습니다.
-메뉴주문이 끝나면 exit 함수가 실행되어 사용자가 종료 및 재시작을 입력할수있습니다.
-***
+키오스크를 실행하면 start함수가 실행되며 사용자는 원하는 카테고리를 보고 입력할수있거나 종료할수 있습니다.   카테고리를 입력하면 뒤로가기가 실행되거나 해당 카테고리의 order함수가 실행되어 메뉴아이템이 출력되며 메뉴아이템을 보고 메뉴를 주문할수있습니다.   메뉴주문이 끝나면 exit 함수가 실행되어 사용자가 종료 및 재시작을 입력할수있습니다.
+* * *
 ### 프로젝트 진행후 느낀점
  좀 더 간결한 코드와 객체를 어떤 클래스에서 관리하면 더 효율적일지의 관한 생각을 많이 하게되었고
 다음 프로젝트 때는 굳이 안써도 되는 문법들을 쓰지않는 방향으로 코드를 작성할수있도록 진행해 보겠습니다.
+- - - - -
+#### 키오스크 실행
+<img width="632" height="606" alt="image" src="https://github.com/user-attachments/assets/6054fd86-e0f8-4257-93a6-0ec845aa8175" />
+<img width="537" height="617" alt="image" src="https://github.com/user-attachments/assets/ad4b2628-b568-4140-9d78-f2e68fd7719f" />
+<img width="651" height="719" alt="image" src="https://github.com/user-attachments/assets/d42b1dcd-9302-4aae-a7e9-86b3ae20ffbb" />
+<img width="321" height="305" alt="image" src="https://github.com/user-attachments/assets/8dafedfc-a694-4bdf-9aec-215808f6d4a0" />
+<img width="313" height="385" alt="image" src="https://github.com/user-attachments/assets/8670f2db-e293-48bf-9984-e2a072365d58" />
+<img width="317" height="281" alt="image" src="https://github.com/user-attachments/assets/050df003-d9f8-4741-8816-868d1b5529e3" />
+
+
+
+
+
+
+
 
 
